@@ -11,3 +11,8 @@ def array_diff(a, b):
             else:
                 d.append(i)
     return d
+
+
+array = [1,3,2,4,1,6,7,2,3,8,9]
+array.sort()
+print(array)
